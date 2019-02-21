@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-E463562C-BCDC-4A12-BEFA-BD4074F01566.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-6159061C-A8A8-44C0-9016-B914DD56AE32.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -114,7 +114,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-47B2ED94-2606-4361-A04D-D2E1A518558F.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-899D399D-EFF7-4FE7-8209-338191F7A897.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -150,7 +150,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-3B95449C-D29E-4A80-8BD3-A363718688F4.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-00CBE2F6-4F0E-407B-B7A7-299617BF4BDE.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -171,7 +171,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-5D2BA844-89E3-4B69-9966-1AB3075DAB7C.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-B619B5A2-DA58-48B0-B099-21F6F21ECE9C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -190,7 +190,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-7BEA7861-DF04-41FF-B9DB-79DD7D401A05.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-1A16322B-DEF0-475B-8F51-F89BCE72348C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -408,7 +408,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-4CA0F28D-281D-4A8C-A72B-2CDB77022620.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-D16CB36D-A2D9-41EF-AC61-98FF5C58ED9B.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -427,7 +427,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-32535D1D-A210-49F2-95DF-C21A0E04C098.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-3CE8CE9B-F78E-40CC-83E1-2FCAC3056BA8.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -445,7 +445,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-137E0D90-D7C0-4B12-94FC-6BC64CDCCBEE.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-3A2F0E4C-3AF0-4C3E-964B-3566C0C174D2.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -462,7 +462,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-608F4D45-9335-408B-A0E4-D8605691662D.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-A46B6CBC-E2A6-490B-914F-8DB15F715C50.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -479,7 +479,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.0.42/Apps/YouMiYouYi-2421D6C5-9152-4E9B-A9F9-07886A54672F.ipa</string>
+					<string>https://10.10.0.42/YouMiYouYi-D3FE644D-8396-4F85-810E-0DD254FFCA8C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -555,4 +555,3 @@
 	</array>
 </dict>
 </plist>
-
